@@ -1,16 +1,50 @@
-# Oii, eu sou a Ludmila Alves 👋
+# 👋 Oi! Eu sou a Ludmila Alves
 
-- 🚀 Estudante de Engenharia de Software  
-- 💻 Foco em Front-end, UI/UX e Back-end  
-- 🌱 Atualmente aprendendo: Django e React
+🎯 **Quality Assurance (QA) | Testes Manuais | Automação de Testes**  
+🎓 Estudante de Engenharia de Software – UCB  
+💼 Transição para área de Testes e Garantia de Qualidade  
+🚀 Construindo portfólio com testes manuais, automatizados e testes de API  
+
+---
+
+## 🧪 Sobre mim
+Sou apaixonada por tecnologia e atualmente focada em **Qualidade de Software**.  
+Minha missão é garantir aplicações estáveis, funcionais e sem falhas.  
+
+Aqui no GitHub compartilho meus projetos de:  
+- Testes manuais (Casos de Teste, Relatórios de Bug, Cenários BDD)  
+- Testes automatizados com Cypress / Playwright / Pytest (em progresso)  
+- Testes de API usando Postman  
+- Estudos e boas práticas de QA  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### **Testes**
+- 🧪 Cypress | Playwright (aprendendo)
+- 🌐 Selenium + Python (em estudo)
+- 📌 Postman / Newman (API)
+- 📘 Pytest  
+- 🧭 BDD — Gherkin  
+- 📝 Casos de Teste (CT)  
+- 🐞 Reporte de bugs  
+
+### **Outras habilidades**
+- Git & GitHub  
+- HTML | CSS | JavaScript  
+- Python básico  
+- Jira | Notion | Trello  
+
+---
 
 
-## 🚀 Linguagens mais usadas
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LudCodes&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LudCodes&layout=compact&theme=tokyonight)
 
-## 🌐 Conecte-se comigo
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lud.x3?igsh=M2JxejFxYnB5aHFw)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludmila-alves-ab2ba3280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+---
+
+## 📫 Conecte-se comigo
+[💼 LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/ludmila-alves-ab2ba3280/))  
+[📸 Instagram](https://www.instagram.com/lud.x3/)  
