@@ -38,13 +38,6 @@ Aqui no GitHub compartilho meus projetos de:
 
 ---
 
-
-## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LudCodes&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LudCodes&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Conecte-se comigo
-[💼 LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/ludmila-alves-ab2ba3280/))  
+[💼 LinkedIn](https://www.linkedin.com/in/ludmila-alves-ab2ba3280/))
 [📸 Instagram](https://www.instagram.com/lud.x3/)  
