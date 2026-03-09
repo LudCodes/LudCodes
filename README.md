@@ -49,7 +49,7 @@ Atualmente estou focada em evoluir minhas habilidades em **desenvolvimento web**
 
 <a href="https://www.instagram.com/lud.x3?igsh=M2JxejFxYnB5aHFw">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>](https://www.instagram.com/lud.x3?igsh=M2JxejFxYnB5aHFw)
+</a>
 
 <a href="https://github.com/LudCodes">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
