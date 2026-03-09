@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 Estudante de Engenharia de Software <br>
-🚀 Em busca da primeira oportunidade na área de tecnologia
+🚀 Front-end Developer
 </p>
 
 ---
