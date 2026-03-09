@@ -1,43 +1,75 @@
-# 👋 Oi! Eu sou a Ludmila Alves
+<h1 align="center">👋 Olá, eu sou Ludmila</h1>
 
-🎯 **Quality Assurance (QA) | Testes Manuais | Automação de Testes**  
-🎓 Estudante de Engenharia de Software – UCB  
-💼 Transição para área de Testes e Garantia de Qualidade  
-🚀 Construindo portfólio com testes manuais, automatizados e testes de API  
-
----
-
-## 🧪 Sobre mim
-Sou apaixonada por tecnologia e atualmente focada em **Qualidade de Software**.  
-Minha missão é garantir aplicações estáveis, funcionais e sem falhas.  
-
-Aqui no GitHub compartilho meus projetos de:  
-- Testes manuais (Casos de Teste, Relatórios de Bug, Cenários BDD)  
-- Testes automatizados com Cypress / Playwright / Pytest (em progresso)  
-- Testes de API usando Postman  
-- Estudos e boas práticas de QA  
+<p align="center">
+🎓 Estudante de Engenharia de Software <br>
+🚀 Em busca da primeira oportunidade na área de tecnologia
+</p>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 👩‍💻 Sobre mim
 
-### **Testes**
-- 🧪 Cypress | Playwright (aprendendo)
-- 🌐 Selenium + Python (em estudo)
-- 📌 Postman / Newman (API)
-- 📘 Pytest  
-- 🧭 BDD — Gherkin  
-- 📝 Casos de Teste (CT)  
-- 🐞 Reporte de bugs  
+Sou estudante de **Engenharia de Software** apaixonada por tecnologia e pelo impacto que o conhecimento pode gerar no mundo real.
 
-### **Outras habilidades**
-- Git & GitHub  
-- HTML | CSS | JavaScript  
-- Python básico  
-- Jira | Notion | Trello  
+Gosto de aprender construindo projetos e transformando ideias em soluções digitais.  
+Atualmente estou focada em evoluir minhas habilidades em **desenvolvimento web** e participar de projetos que me desafiem a crescer todos os dias.
+
+✨ Curiosa por natureza  
+💡 Sempre aprendendo algo novo  
+🚀 Construindo minha jornada na tecnologia
 
 ---
 
-## 📫 Conecte-se comigo
-[💼 LinkedIn](https://www.linkedin.com/in/ludmila-alves-ab2ba3280/))
-[📸 Instagram](https://www.instagram.com/lud.x3/)  
+## 🛠️ Tecnologias e ferramentas
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=figma" />
+
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+
+<img 
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"
+/>
+
+<img 
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"
+/>
+
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ludmila-alves-ab2ba3280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/LudCodes">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+⭐ Sempre aprendendo e construindo novos projetos
