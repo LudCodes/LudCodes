@@ -35,43 +35,6 @@ Gosto de unir tecnologia, criatividade e design para construir interfaces modern
 
 ---
 
-### 🖤 Projetos em destaque
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🌿 Website Verdante</h4>
-      Projeto de desenvolvimento web com foco em interface, estrutura e experiência do usuário.
-
-      <a href="https://github.com/LudCodes/restaurant-verdante">Ver repositório →</a>
-    </td>
-    <td width="50%">
-      <h4>🎮 GamePlay</h4>
-      Aplicação desenvolvida como parte dos estudos em Engenharia de Software.
-
-      <a href="https://github.com/LudCodes">Explorar projetos →</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h4>🍭 Pop Churros</h4>
-      Projeto SaaS com foco em aplicação web e integração com banco de dados.
-
-      <a href="https://github.com/LudCodes">Explorar projetos →</a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Meu GitHub
-
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=LudCodes&show_icons=true&theme=radical&hide_border=true&title_color=FF1493&icon_color=FF1493&include_all_commits=true" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudCodes&layout=compact&theme=radical&hide_border=true&title_color=FF1493" />
-</p>
-
----
 
 ### 💌 Vamos nos conectar?
 
